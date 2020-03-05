@@ -5,7 +5,7 @@ import { Component, OnInit, NgModule } from '@angular/core';
   styleUrls: ['./binding.component.scss']
 })
 export class BindingComponent implements OnInit {
-  value = 'test';
+  value = 'test2';
   constructor() { }
 
   ngOnInit(): void {
