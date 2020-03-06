@@ -11,6 +11,6 @@ export class BindingComponent implements OnInit {
   ngOnInit(): void {
   }
   onClick() {
-    this.value = '';
+    this.value = 'ZEE';
   }
 }
